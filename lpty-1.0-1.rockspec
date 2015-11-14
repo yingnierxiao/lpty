@@ -1,12 +1,12 @@
 package = "lpty"
-version = "0.9-1"
+version = "1.0-1"
 -- LuaDist source
 source = {
-  tag = "0.9-1",
+  tag = "1.0-1",
   url = "git://github.com/ld-test/lpty.git"
 }
 -- source = {
--- 	url = "http://www.tset.de/downloads/lpty-0.9-1.tar.gz"
+-- 	url = "http://www.tset.de/downloads/lpty-1.0-1.tar.gz"
 -- }
 description = {
 	summary = "A simple facility for lua to control other programs via PTYs.",
@@ -20,7 +20,7 @@ description = {
 	maintainer = "Gunnar Zötl <gz@tset.de>"
 }
 supported_platforms = {
-	"unix", "mac"
+	"unix", "macosx"
 }
 dependencies = {
 	"lua >= 5.1"
