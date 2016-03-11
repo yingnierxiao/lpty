@@ -11,6 +11,6 @@ include ( LuaJIT )  #lua
 
 install_lua_module ( lpty lpty.c )
 
-install_example ( samples/ )
-install_doc ( doc/ )
+# install_example ( samples/ )
+# install_doc ( doc/ )
 #install_data ( README )

@@ -1,1 +1,0 @@
-/Volumes/osxwork/work/nginx_web/libs/lpty/CMakeFiles/lpty.dir
